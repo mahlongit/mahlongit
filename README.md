@@ -65,4 +65,4 @@ frontend:    Next.js 15 · Tailwind · shadcn/ui
 
 ---
 
-*Last updated: 2026-05-13 · Powered by M4 Neural Engine + 龙虾*
+*Last updated: 2026-05-13 · Powered by M4 Neural Engine*
